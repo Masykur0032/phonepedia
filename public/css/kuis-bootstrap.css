@@ -1,0 +1,40 @@
+body{
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+}
+.box{
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.boxsatu{
+    background-color: rgba(0, 252, 252, 0.8);
+    font-size: 14pt;
+    font-style: normal;
+    font-family: 'Times New Roman';
+}
+.boxdua{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.gambar{
+    width: 400px;
+    float: left;
+    margin-right: 10px;
+}
+.gambarku{
+    width: 50px;
+    float: right;
+    margin-left: 10px;
+}
+ul.laravel{
+	list-style-type: circle;
+}
+.link{
+    font-size: 14pt;
+    text-decoration: none;
+}
+.link:hover{
+color: red;
+}
+.link:link{
+color: blue;
+}
